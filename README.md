@@ -26,4 +26,4 @@ The footer component displays the opening hours of the restaurant. It shows whet
 
 ## Live Demo
 
-[Pizza Menu 🍕](https://your-live-demo-link.com).
+[Pizza Menu 🍕](https://fast-react-pizza-mo7med.netlify.app/).
